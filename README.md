@@ -31,7 +31,7 @@ The repository is organized as follows:
 - Reference materials from scholarly articles on earthquake engineering and structural safety  
 
 ## Author
-[Your Name]  
+khuban azeemi
 B.S. Mathematics | AI & ICT Enthusiast | Exploring simulations and engineering projects  
 
 ## References
